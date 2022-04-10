@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dydnt
 - 👀 I’m interested in Full Stack Web Developing.
-- 🌱 I’m currently learning Visual Basic.
+- 🌱 I’m currently learning Visual Basic and Java.
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me: /
 
