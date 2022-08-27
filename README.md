@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dydnt
-- 👀 I’m interested in Full Stack Web Developing.
-- 🌱 I’m currently learning Visual Basic and Java.
-- 💞️ I’m looking to collaborate on /
-- 📫 How to reach me: /
+#  **Dydnt.exe**
+![](https://komarev.com/ghpvc/?username=dydnt&color=blue)
 
-<!---
-Dydnt/Dydnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, and welcome on my GitHub profile!
+
+## { 💻 **CODING EXPERIENCE** }
+>I started coding in 2021, with **flowcharts** and **Visual Basic .NET**. After mastering those languages (not to the maximum) in 1 year, in summer 2022 I started learning **Java**, and I'm still doing so.
+
+## { 🔍 **LOOKING TO THE FUTURE** }
+>At the moment, I'm looking to become a Full Stack Web Developer with proper learning. If that doesn't work, I will look for other ways to become a developer (software for example, but it will be thougher than web developing).
