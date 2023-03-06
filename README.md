@@ -1,7 +1,7 @@
 ```powershell
   run Dydnt.exe
 ```
-<h1 align="center">Hello there 👋, I'm Dydnt</h1>
+<h1 align="left">📘 | Dydnt </h1>
 
 
 - ☕ I’m currently learning **Java, Python and SQL.**
