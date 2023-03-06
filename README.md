@@ -2,7 +2,7 @@
   run Dydnt.exe
 ```
 <h1 align="center">Hello there 👋, I'm Dydnt</h1>
-<h3 align="center">A new junior developer and young Italian guy with hope to become a professional coder</h3>
+
 
 - 🌱 I’m currently learning **Java, Python and SQL.**
 
