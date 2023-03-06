@@ -8,6 +8,6 @@
 
 - 💬 Ask me about **anything!**
 
-- 📄 Past languages experiences VB.NET: (not in detail).
+- 📄 Past languages experiences: **VB.NET** (not in detail).
 
 - ⚡ Fun fact: nothing, *for now...*
